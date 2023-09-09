@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Nicolas Montoya Juro</h1>
 <h3 align="center">Soy estudiante de la carrera de estadística apasionado por la ciencia de datos</h3>
 
-- 👯 Actualmente estoy trabajando en [Problemas de cálculo actuarial](https://colab.research.google.com/drive/1FUFwu_NpFHJvGPc561Jnw9WeKhxoa6ql?usp=sharing), tambien me encuentro desarrollando el rol de data engineer intern
+- 👯 Actualmente estoy trabajando en [Problemas de cálculo actuarial](https://colab.research.google.com/drive/1FUFwu_NpFHJvGPc561Jnw9WeKhxoa6ql?usp=sharing), tambien me encuentro desarrollando el rol de Data Engineer Intern.
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/MontoyaNicolas/ MontoyaNicolas.git](https://github.com/MontoyaNicolas/MontoyaNicolas.git)
 
