@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nicolas-montoya-juro-0197861b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nicolas montoya juro" height="30" width="40" /></a> </p> <h3
+<a href="https://www.linkedin.com/in/nicolas-montoya-juro-0197861b8/" target="blank"><img align="center" src="https://github.com/MontoyaNicolas" alt="nicolas montoya juro" height="30" width="40" /></a> </p> <h3
 align
 
 = "left">Idiomas y herramientas:</h3>
