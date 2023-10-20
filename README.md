@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/MontoyaNicolas/ MontoyaNicolas.git](https://github.com/MontoyaNicolas/MontoyaNicolas.git)
 
-- 💬 Preguntame sobre **Teoria estadistica, analisis de supervivencia**
+- 💬 Preguntame sobre **Teoria estadistica, analisis de supervivencia, estadistica espacial y ciencia de datos**
 
 - 📫 Cómo contactarme **nicolas.montoya@unmsm.edu.pe **
 
